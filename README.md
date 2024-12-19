@@ -42,11 +42,14 @@ Outcome: Reduced data latency by 30% and enabled real-time analytics.
 - Optimizing Data Pipelines - Data Analytics Conference, 2022
 - Introduction to Machine Learning for Business - Webinar, 2021
 - Best Practices in Data Visualization - Tableau User Group, 2021
+
 ## Certifications
 - AWS Certified Data Analytics – Specialty
 - Microsoft Certified: Data Analyst Associate
+
 ## Publications
 Effective Feature Engineering for Credit Risk Assessment, 2023.
 Improving Data Pipeline Efficiency with Apache Spark, 2022.
+
 ## Contact
-Email: datamaheswar@gmail.com
+Email: mahesh.sanepalli@gmail.com
