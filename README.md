@@ -4,6 +4,7 @@
 ## Education
 - Master of Science in Information Systems | New England College, Henniker, NH, USA
 - Bachelor of Science in Information Technology | JNT University, AP, India
+
 ## Work Experience
 **Data Analyst @ Capital One, NY, USA
 - June 2023 – Present
@@ -17,6 +18,7 @@
 - Migrated on-premises data infrastructure to AWS Cloud, reducing costs by 40%.
 - Designed and optimized SQL stored procedures for Power BI reporting.
 - Enhanced data reliability by 25% through profiling and cleaning.
+
 ## Projects
 ### Credit Risk Assessment
 Description:
