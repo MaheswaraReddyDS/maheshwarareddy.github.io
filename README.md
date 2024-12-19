@@ -21,21 +21,25 @@
 
 ## Projects
 ### Credit Risk Assessment
-Description:
-Built predictive models using logistic regression and random forest to reduce loan default rates.
+Description: Built predictive models using logistic regression and random forest to reduce loan default rates.
+
 Tools: Python, SQL, Tableau
+
 Outcome: Reduced default rates by 12% and streamlined loan processing.
 
 ### Inventory Management System
-Description:
-Designed a SQL database for inventory tracking and built Tableau dashboards for monitoring trends.
+Description: Designed a SQL database for inventory tracking and built Tableau dashboards for monitoring trends.
+
 Tools: SQL, Tableau
+
 Outcome: Enhanced sales insights and streamlined inventory processes.
 
+
 ### Real-Time Data Pipeline
-Description:
-Implemented a scalable data pipeline using Apache Spark and AWS to process e-commerce data in real time.
+Description: Implemented a scalable data pipeline using Apache Spark and AWS to process e-commerce data in real time.
+
 Tools: Apache Spark, AWS, Python
+
 Outcome: Reduced data latency by 30% and enabled real-time analytics.
 
 ## Talks & Lectures
@@ -48,8 +52,8 @@ Outcome: Reduced data latency by 30% and enabled real-time analytics.
 - Microsoft Certified: Data Analyst Associate
 
 ## Publications
-Effective Feature Engineering for Credit Risk Assessment, 2023.
-Improving Data Pipeline Efficiency with Apache Spark, 2022.
+- Effective Feature Engineering for Credit Risk Assessment, 2023.
+- Improving Data Pipeline Efficiency with Apache Spark, 2022.
 
 ## Contact
 Email: mahesh.sanepalli@gmail.com
